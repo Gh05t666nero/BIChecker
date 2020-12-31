@@ -1,7 +1,7 @@
 # BIChecker (Bitcoin Account Checker)
 <img src="https://www.bitcoin.co.id/img/homepage/phone2.png">
 
-# What is IDXChecker?
+# What is BIChecker?
 IDXChecker is an account checker for the popular cryptocurrency service Bitcoin.co.id written in Python. Bitcoin.co.id managed to circumvent Bitcoin's security system which prevented massive account checks. But, this security system is not very safe for an Bitcoin company. BIChecker was created wholeheartedly with the intention of educating that it should not be used to commit any crime that would be committed under the responsibility of program users not the same creators.
 
 # Features
